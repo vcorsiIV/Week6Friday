@@ -1,0 +1,6 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\BonusWeek6Friday\BonusWeek6Friday\bin\Debug\BonusWeek6Friday.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\BonusWeek6Friday\BonusWeek6Friday\bin\Debug\BonusWeek6Friday.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\BonusWeek6Friday\BonusWeek6Friday\bin\Debug\BonusWeek6Friday.pdb
+c:\users\cleveland codes\documents\visual studio 2015\Projects\BonusWeek6Friday\BonusWeek6Friday\obj\Debug\BonusWeek6Friday.csprojResolveAssemblyReference.cache
+c:\users\cleveland codes\documents\visual studio 2015\Projects\BonusWeek6Friday\BonusWeek6Friday\obj\Debug\BonusWeek6Friday.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\BonusWeek6Friday\BonusWeek6Friday\obj\Debug\BonusWeek6Friday.pdb
